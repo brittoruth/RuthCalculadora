@@ -1,16 +1,16 @@
-# Projeto Meetup - Women Techmakers##
+# Projeto Meetup - Women Techmakers
 
 Inesquecível! O primeiro deploy de muitos.
 Calculadora simples com foco na validação.
 
 
-🛠️ **`#RRGGBB`Tecnologias utilizadas**
-HTML
-CSS
-JavaScript
+🛠️ `#0969DA`**Tecnologias utilizadas**
 
-📹 **`#RRGGBB`Imagens / Vídeos**
-("C:\Users\britt\Videos\Calculadora Ruth.mp4")
+HTML
+
+CSS
+📹 **Imagens /Vídeos**
+(file:///C:/Users/britt/Downloads/Calculadora%20Ruth%20%E2%80%90%20Feito%20com%20o%20Clipchamp.mp4)
 
 
 
