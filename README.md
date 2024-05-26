@@ -4,13 +4,26 @@ Inesquecível! O primeiro deploy de muitos.
 Calculadora simples com foco na validação.
 
 
-🛠️ `#0969DA`**Tecnologias utilizadas**
+🛠️ **Tecnologias utilizadas**
+
 
 HTML
-
 CSS
-📹 **Imagens /Vídeos**
-(file:///C:/Users/britt/Downloads/Calculadora%20Ruth%20%E2%80%90%20Feito%20com%20o%20Clipchamp.mp4)
+JS
+
+
+
+
+:clapper: **Resultado Final**
+
+https://github.com/brittoruth/RuthCalculadora/assets/123418514/e6d0f5fd-5c11-4c2c-89ad-63f6c7c76d8f
+
+### :speech_balloon: Sugestões:
+Fico aberto a sugestões de melhorias e idéias
+
+
+
+
 
 
 
