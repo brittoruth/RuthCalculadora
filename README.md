@@ -10,7 +10,9 @@ Calculadora simples com foco na validação.
 HTML
 CSS
 JS
-
+Git
+GitHub
+Visual Studio Code 
 
 
 
